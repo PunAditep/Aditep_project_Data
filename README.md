@@ -1,6 +1,11 @@
 # Aditep's portfolio
+My portfolio showcases projects related to the roles of data analyst and data scientist, as well as the knowledge I have acquired through various courses, completed assignments, and summary sheets. These practical experiences have allowed me to develop valuable skills in data analysis and provide evidence of my competence in the field.
+
 ## Project Relavent
 ### 1 KPMG Project
+ - Presentation sides display problem and solve principle
+ - Dashboard
+ - certificated by KPMG Co., Ltd. 
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -18,7 +23,7 @@
     
   | Prediction Model | F1-Score(macro) | Accurary | Open Notebook   |
   | ---------------- |:--------------: | :--------:|:--------------:|
-  | Logistics Regression |   76.93%    |77.07%     |                |
+  | Logistics Regression |76.93%       |77.07%     |                |
   | Decision Tree        |80.35%       |80.62%     |                |
   | Random Forest        |80.92%       |81.25%     |                |
   | K-Nearest Neighbors  |73.65%       |73.85%     |                |
@@ -39,6 +44,8 @@
   HR analyst
 - Prediction tasks by using machine learning
 
+- SQL tasks
+  
 - Excel tasks
  
  
