@@ -5,7 +5,7 @@ My portfolio showcases projects related to the roles of data analyst and data sc
 ### 1 KPMG Project
  - Presentation sides display problem and solve principle
  - Dashboard
- - certificated by KPMG Co., Ltd. 
+ - Certificated by KPMG Co., Ltd. 
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
