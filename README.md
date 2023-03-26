@@ -21,7 +21,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
     
   | Prediction Model | F1-Score(macro) | Accurary | Open Notebook   |
   | ---------------- |:--------------: | :--------:|:--------------:|
-  | Logistics Regression |76.93%       |77.07%     |                |
+  | Logistics Regression |76.93%       |77.07%     |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VxP8tWigEhdqjhqvuofZ3rw3H-Vk-ESL)         |
   | Decision Tree        |80.35%       |80.62%     |                |
   | Random Forest        |80.92%       |81.25%     |                |
   | K-Nearest Neighbors  |73.65%       |73.85%     |                |
