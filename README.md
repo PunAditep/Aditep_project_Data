@@ -54,7 +54,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 ## Myself summary
  - Principle-made dashboard : Step analyst problem
  - Power BI : Cleaning data and Exploration
- - Python code : Cleaning data and Exploration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/gist/PunAditep/fe388bf41d0554e6b8f17f58131dcc94/prepration-data.ipynb 
+ - Python code : Cleaning data and Exploration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/fe388bf41d0554e6b8f17f58131dcc94/prepration-data.ipynb)
  
 
 
