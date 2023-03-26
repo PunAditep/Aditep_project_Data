@@ -25,7 +25,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
   | Decision Tree        |80.35%       |80.62%     |                |
   | Random Forest        |80.92%       |81.25%     |                |
   | K-Nearest Neighbors  |73.65%       |73.85%     |                |
-  | Neural Networks      |78.31%       |78.61%     |   [![Open In Colaa](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PunAditep/Aditep_project_Data/blob/main/Neural_Networks_project2.ipynb)             |
+  | Neural Networks      |78.31%       |78.61%     |   [(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PunAditep/Aditep_project_Data/blob/main/Neural_Networks_project2.ipynb)             |
 
 <a href = "https://colab.research.google.com/gist/PunAditep/c35c74e6e626d40320039e0f358c9005/neural-networks-project2.ipynb" target="_blank">Open in Colab</a>
 
