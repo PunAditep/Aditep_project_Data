@@ -3,6 +3,7 @@ My portfolio showcases projects related to the roles of data analyst and data sc
 
 ## Project Relavent
 >Bike marketing Dashboard  
+
 This project constitutes a virtual internship with KPMG Co., Ltd.
  - Presentation sides display problem and solve principle
  - Dashboard
