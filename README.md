@@ -1,4 +1,4 @@
-# Aditep's portfolio
+# Portfolio of Adiep Chakrawanrut
 My portfolio showcases projects related to the roles of data analyst and data scientist, as well as the knowledge I have acquired through various courses, completed assignments, and summary sheets. These practical experiences have allowed me to develop valuable skills in data analysis and provide evidence of my competence in the field.
 
 ## Project Relavent
