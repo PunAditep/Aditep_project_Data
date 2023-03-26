@@ -53,4 +53,5 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
  - Power BI : Cleaning data and Exploration
  - Python code : Cleaning data and Exploration
 <a href = "https://github.com/PunAditep/Aditep_project_Data/blob/main/Neural_Networks_project2.ipynb" target="_blank">Open in Colab</a>
+
 <a href = "https://colab.research.google.com/gist/PunAditep/c35c74e6e626d40320039e0f358c9005/neural-networks-project2.ipynb" target="_blank">Open in Colab</a>
