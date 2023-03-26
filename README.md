@@ -45,5 +45,5 @@
  
 ## Myself summary
  - Principle-made dashboard : Step analyst problem
- - Python code : Cleaning data and Exploration
  - Power BI : Cleaning data and Exploration
+ - Python code : Cleaning data and Exploration
