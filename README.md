@@ -52,3 +52,4 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
  - Principle-made dashboard : Step analyst problem
  - Power BI : Cleaning data and Exploration
  - Python code : Cleaning data and Exploration
+[Aditep_Data.analyst_compressed.pdf](https://github.com/PunAditep/Aditep_project_Data/files/11071117/Aditep_Data.analyst_compressed.pdf)
