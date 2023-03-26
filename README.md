@@ -62,22 +62,4 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 </a>
 
 
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/PunAditep/Aditep_project_Data/blob/main/Neural_Networks_project2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "mAWL_midPCmM"
-      }
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PunAditep/Aditep_project_Data/blob/main/Neural_Networks_project2.ipynb)
