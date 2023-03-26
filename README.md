@@ -58,5 +58,5 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
  
 
 
-[file:///C:/Users/MSI/Downloads/pdf-svgrepo-com.svg](file:///D:/resume/Aditep_Business%20Development%20Executive.pdf)
+[![pdf](file:///C:/Users/MSI/Downloads/pdf-svgrepo-com.svg)](file:///D:/resume/Aditep_Business%20Development%20Executive.pdf)
 
