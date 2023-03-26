@@ -22,8 +22,8 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
   | Prediction Model | F1-Score(macro) | Accurary | Open Notebook   |
   | ---------------- |:--------------: | :--------:|:--------------:|
   | Logistics Regression |76.93%       |77.07%     |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/7e6e40fc417e9636619dc27f055a2b8d/logistic-regrssion-project2.ipynb)         |
-  | Decision Tree        |80.35%       |80.62%     |                |
-  | Random Forest        |80.92%       |81.25%     |                |
+  | Decision Tree        |80.35%       |80.62%     |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]               |
+  | Random Forest        |80.92%       |81.25%     |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]              |
   | K-Nearest Neighbors  |73.65%       |73.85%     |       [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/0af049b756d5444db775f5829fd7dfbf/k-nearest-neighbors-project2.ipynb)         |
   | Neural Networks      |78.31%       |78.61%     |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/c35c74e6e626d40320039e0f358c9005/neural-networks-project2.ipynb)             |
 
