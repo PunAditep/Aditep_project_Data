@@ -15,7 +15,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 - Insight Dashboard
 - Predict deposit customer
   Code for main work (Best Model = XGBoost --> k-mean clustering)
-  - F1-Score(macro) 83.59% , Accurary 83.80% [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HIqSk9XaNzr9PvxXbP2Jn5F9X--UotCO)
+  - F1-Score(macro) 83.59% , Accurary 83.80% [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/b450be991e41594168ccd84b5df89baf/project2_bank-marketing.ipynb)
   
   Compare Best Model :Code for additional forecasting algorithms  
     
