@@ -8,8 +8,8 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-### 2 insight Dashboard & Predict deposit customer of Bank Marketing 
-- insight Dashboard
+### 2 Insight Dashboard & Predict deposit customer of Bank Marketing 
+- Insight Dashboard
 - Predict deposit customer
   Code for main work (Best Model = XGBoost --> clustering)
   - F1-Score(macro) 83.59% , Accurary 83.80%
@@ -27,7 +27,7 @@
     
 
 
-## Enrolled courses 
+## courses achievement
 - Excel Skills for Business from Macquarie University
 - Data analyst SQL from Datacamp
 - Data analyst with Python from Datacamp
@@ -35,4 +35,15 @@
 - Data Science from Chulalongkorn University
 
 ## Performed Tasks from enrolled courses:
+- Dahboard tasks by using Power BI 
+  HR analyst
+- Prediction tasks by using machine learning
 
+- Excel tasks
+ 
+ 
+ 
+## Myself summary
+ - Python code : Cleaning data and Exploration
+ - Power BI : Cleaning data and Exploration
+ - Principle-made dashboard : Step analyst problem
