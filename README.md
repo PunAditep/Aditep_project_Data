@@ -80,3 +80,4 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
       "metadata": {
         "id": "mAWL_midPCmM"
       }
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PunAditep/Aditep_project_Data/blob/main/Neural_Networks_project2.ipynb)
