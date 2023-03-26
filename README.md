@@ -2,18 +2,13 @@
 My portfolio showcases projects related to the roles of data analyst and data scientist, as well as the knowledge I have acquired through various courses, completed assignments, and summary sheets. These practical experiences have allowed me to develop valuable skills in data analysis and provide evidence of my competence in the field.
 
 ## Project Relavent
->Boosting marketing Dashboard 
-
+>Bike marketing Dashboard  
 This project constitutes a virtual internship with KPMG Co., Ltd.
  - Presentation sides display problem and solve principle
  - Dashboard
  - Certificated by KPMG Co., Ltd. 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 
 >Insight Dashboard & Predict deposit customer of Bank Campaign Marketing 
 - Insight Dashboard
