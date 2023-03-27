@@ -5,8 +5,8 @@ My portfolio showcases projects related to the roles of data analyst and data sc
 >Bike marketing Dashboard  
 
 This project constitutes a virtual internship with KPMG Co., Ltd.
- - Presentation sides display problem and solve principle
- - Dashboard
+ - [Presentation sides display problem and solve principle](https://github.com/PunAditep/Aditep_project_Data/blob/main/Project/Aditep.Module_2_slide.pdf)
+ - [Dashboard](https://github.com/PunAditep/Aditep_project_Data/blob/main/Project/KPMG_dashboard%20project.pdf)
  - [Certificated by KPMG Co., Ltd.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_ra9WQhmPGsHR9XX8b_1679926282402_completion_certificate.pdf) 
 
 
