@@ -44,8 +44,6 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 - Dahboard tasks by using Power BI 
   HR analyst
 - Prediction tasks by using machine learning
-
-- SQL tasks
   
 - Excel tasks
    - [Data validation](https://docs.google.com/spreadsheets/d/10OCgn3iUtjUhf0Jm_L_U1lBwUZdBnVkJ822jNqb40vU/edit?usp=sharing) 
