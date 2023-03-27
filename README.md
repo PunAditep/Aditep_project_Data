@@ -56,8 +56,8 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
    - [Macro](https://docs.google.com/spreadsheets/d/1Q5gdcDusb65FURUtL2Jcbgg0jM0h3xKjUklS6oFxmxU/edit?usp=sharing)
  
 ## Myself summary
- - Principle-made dashboard : Step analyst problem
- - Power BI : Cleaning data and Exploration 
+ - Principle-made dashboard : [Step analyst problem](https://github.com/PunAditep/Aditep_project_Data/blob/main/Myself%20summary/Step-analyst-problem.pdf)
+ - Power BI : [Cleaning data and Exploration](https://github.com/PunAditep/Aditep_project_Data/blob/main/Myself%20summary/Cleaning-in-PowerBi%20(1).pdf) 
  - Python code : Cleaning data and Exploration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/fe388bf41d0554e6b8f17f58131dcc94/prepration-data.ipynb)
 
 
