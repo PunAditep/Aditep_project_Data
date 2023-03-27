@@ -33,7 +33,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
     
 
 
-## courses achievement
+## Courses achievement
 - [Excel Skills for Business from Macquarie University](https://www.coursera.org/account/accomplishments/certificate/DLKQNTTXAXEV)
 - [Data analyst SQL from Datacamp](https://www.datacamp.com/statement-of-accomplishment/track/16876bab1a44c75c22b88bb478e83807e5c2bf48)
 - [Data analyst with Python from Datacamp](https://www.datacamp.com/statement-of-accomplishment/track/d7c497cde94b535856afa1b66aafcc2100b4b2ae)
