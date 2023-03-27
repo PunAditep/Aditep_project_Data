@@ -50,7 +50,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 - Excel tasks
    - [Data validation](https://docs.google.com/spreadsheets/d/10OCgn3iUtjUhf0Jm_L_U1lBwUZdBnVkJ822jNqb40vU/edit?usp=sharing) 
    - [Logical operators](https://docs.google.com/spreadsheets/d/1z-D_EErMRzjSHSW1TtIqhRKGd-A_59mA5sWXqy0LVs8/edit?usp=sharing)
-   - [vlookup , macth, Index](https://docs.google.com/spreadsheets/d/1EYDXX-Dp19BWXIyNvF6ULIJvPglrVqSaHnN8_78yN6s/edit?usp=sharing)
+   - [Vlookup ,Macth ,Index ](https://docs.google.com/spreadsheets/d/1EYDXX-Dp19BWXIyNvF6ULIJvPglrVqSaHnN8_78yN6s/edit?usp=sharing)
    - [Error checking and Protect critical information](https://docs.google.com/spreadsheets/d/13mhd0Dr2kJHTpzxI7-7Uh-y9GjAeIId719qY_yIHa_Q/edit?usp=sharing)
    - [Goal seek & Sovler](https://docs.google.com/spreadsheets/d/1XTZ0k7JPJmOcHB6t489IFjEyRI43q00uC15QXSd4Yi8/edit?usp=sharing)
    - [Macro](https://docs.google.com/spreadsheets/d/1Q5gdcDusb65FURUtL2Jcbgg0jM0h3xKjUklS6oFxmxU/edit?usp=sharing)
