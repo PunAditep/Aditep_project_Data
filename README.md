@@ -42,9 +42,10 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 
 ## Performed Tasks from enrolled courses:
 - Dahboard tasks by using Power BI 
-  [HR analyst](https://github.com/PunAditep/Aditep_project_Data/blob/main/Tasks/HR_ANALYST.pdf)
+   [HR analyst](https://github.com/PunAditep/Aditep_project_Data/blob/main/Tasks/HR_ANALYST.pdf)
 - Prediction tasks by using machine learning
-  
+    - SVM Machine learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/455e03e4c552231e6a4f498674085d3b/5-6_support_vector_machine-v2.ipynb)
+    - Market Basket Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/71cbb270d063d4d3f69d866a7d13377e/5-9_market_basket.ipynb)
 - Excel tasks
    - [Data validation](https://docs.google.com/spreadsheets/d/10OCgn3iUtjUhf0Jm_L_U1lBwUZdBnVkJ822jNqb40vU/edit?usp=sharing) 
    - [Logical operators](https://docs.google.com/spreadsheets/d/1z-D_EErMRzjSHSW1TtIqhRKGd-A_59mA5sWXqy0LVs8/edit?usp=sharing)
@@ -57,8 +58,6 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
  - Principle-made dashboard : Step analyst problem
  - Power BI : Cleaning data and Exploration 
  - Python code : Cleaning data and Exploration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/fe388bf41d0554e6b8f17f58131dcc94/prepration-data.ipynb)
- 
-
 
 
 
