@@ -7,7 +7,7 @@ My portfolio showcases projects related to the roles of data analyst and data sc
 This project constitutes a virtual internship with KPMG Co., Ltd.
  - Presentation sides display problem and solve principle
  - Dashboard
- - Certificated by KPMG Co., Ltd. 
+ - [Certificated by KPMG Co., Ltd.](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_ra9WQhmPGsHR9XX8b_1679926282402_completion_certificate.pdf) 
 
 
 
