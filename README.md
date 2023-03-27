@@ -48,7 +48,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 - SQL tasks
   
 - Excel tasks
- 
+ 1) [Data validation](https://docs.google.com/spreadsheets/d/10OCgn3iUtjUhf0Jm_L_U1lBwUZdBnVkJ822jNqb40vU/edit?usp=sharing) 
  
  
 ## Myself summary
