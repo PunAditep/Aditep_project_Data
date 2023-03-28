@@ -29,7 +29,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 
 
 
- - Description of dashboard result prediction 
+ - [Description of dashboard result prediction](https://github.com/PunAditep/Aditep_project_Data/blob/main/Project/description%20result%20prediction.pdf) 
     
 
 
