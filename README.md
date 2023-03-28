@@ -12,7 +12,7 @@ This project constitutes a virtual internship with KPMG Co., Ltd.
 
 
 >Insight Dashboard & Predict deposit customer of Bank Campaign Marketing 
-- Insight Dashboard
+- [Insight Dashboard](https://github.com/PunAditep/Aditep_project_Data/blob/main/Project/Insight%20Dashboard%20of%20the%20Bank%20Marketing.pdf)
 - Predict deposit customer
   Code for main work (Best Model = XGBoost --> k-mean clustering)
   - F1-Score(macro) 83.59% , Accurary 83.80% [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/PunAditep/b450be991e41594168ccd84b5df89baf/project2_bank-marketing.ipynb)
