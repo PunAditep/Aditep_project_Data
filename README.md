@@ -2,7 +2,7 @@
 My portfolio showcases projects related to the roles of data analyst and data scientist, as well as the knowledge I have acquired through various courses, completed assignments, and summary sheets. These practical experiences have allowed me to develop valuable skills in data analysis and provide evidence of my competence in the field.
 
 ## Project Relavent
->**Bike marketing Dashboard** 
+>**Bike marketing visual Dashboard** 
 
 This project constitutes a virtual internship with KPMG Co., Ltd.
  - [Presentation sides display problem and solve principle](https://github.com/PunAditep/Aditep_project_Data/blob/main/Project/Aditep.Module_2_slide.pdf)
